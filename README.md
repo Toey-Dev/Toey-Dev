@@ -1,9 +1,9 @@
 <br>
-<div id="header" align="start"> 
+<div id="header" align="center"> 
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </div>
-<div id="header" align="start">
+<div id="header" align="center">
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Toey-Dev&style=flat-square&color=blue" alt=""/><br><br
 </div>
