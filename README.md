@@ -7,7 +7,7 @@
 </div>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Varat+Dube!;" 
      alt="Typing SVG" 
-     style="display: block; margin: 0;" />
+     style="display: block; margin: 20px 0 0 0;" />
 
 <span style="line-height: 1; display: block; margin: 0;">Web Developers</span>
 --------------
