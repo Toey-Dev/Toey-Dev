@@ -9,7 +9,7 @@
      alt="Typing SVG" 
      style="display: block; margin: 0; padding: 0; vertical-align: bottom;" />
 
-Web Developers
+<span style="line-height: 1; display: block; margin-top: 0;">Web Developers</span>
 --------------
 
 I graduated from Pathumwan Institute of Technology, Faculty of Science, majoring in Information Technology. I had the opportunity to work as a UX/UI Designer intern for half a year. After graduation, I worked in the government sector for 5 years before resigning. My career goal is to pursue a position as a Full Stack Developer.
