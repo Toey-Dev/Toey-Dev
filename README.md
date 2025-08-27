@@ -12,7 +12,7 @@
 
 Web Developers
 --------------
-###
+### 
 I graduated from Pathumwan Institute of Technology, Faculty of Science, majoring in Information Technology. I had the opportunity to work as a UX/UI Designer intern for half a year. After graduation, I worked in the government sector for 5 years before resigning. My career goal is to pursue a position as a Full Stack Developer.
 
 * 🌍  I'm based in Bangkok, Thailand
