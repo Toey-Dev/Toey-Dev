@@ -15,6 +15,12 @@
   </div>
     <img src="https://komarev.com/ghpvc/?username=Toey-Dev&style=flat-square&color=blue" alt=""/>
 </div>
+---
+
+### :hammer_and_wrench: Languages and Tools : 
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
+
+
 
 **Toey-Dev/Toey-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
