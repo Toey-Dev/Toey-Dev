@@ -10,7 +10,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varat+Dube!;" 
      alt="Typing SVG" 
      style="display: block; margin-left: 0; margin-bottom: 0; margin-top: 0;" />
-
+<br>
+  
 Web Developers
 --------------
 
@@ -20,7 +21,9 @@ I graduated from Pathumwan Institute of Technology, Faculty of Science, majoring
 * 🖥️  See my portfolio at [My Port](http://github.com/Toey-Dev)
 * ✉️  You can contact me at [weeraphat02ge@hotmail.com](mailto:weeraphat02ge@hotmail.com)
 * 🧠  I'm currently learning a new framework and enhancing my programming skills.
-* 👥  I'm looking to collaborate on Web Application Projects and Mobile Application Projects.<br>
+* 👥  I'm looking to collaborate on Web Application Projects and Mobile Application Projects.
+
+<br>
 
 Skills
 --------------
@@ -39,7 +42,7 @@ Skills
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
   <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" alt="XD" title="XD" width="36" height="36" /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
-</p><br>
+</p><br><br><br><br>
 
 Socials
 --------------
