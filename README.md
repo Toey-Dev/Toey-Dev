@@ -5,9 +5,9 @@
 <div id="header" align="start">
   <img src="https://komarev.com/ghpvc/?username=Toey-Dev&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varat+Dube!;" 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Varat+Dube!;" 
      alt="Typing SVG" 
-     style="display: block; margin-left: 0;" />
+     style="display: block; margin: 0 0 0 0;" />
 
 Web Developers
 --------------
