@@ -22,7 +22,7 @@ I graduated from Pathumwan Institute of Technology, Faculty of Science, majoring
 * 🧠  I'm currently learning a new framework and enhancing my programming skills.
 * 👥  I'm looking to collaborate on Web Application Projects and Mobile Application Projects.
 
-### Skills
+Skills
 --------------
  
 <p align="left">
