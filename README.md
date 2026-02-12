@@ -54,6 +54,8 @@ Badges
 
 <!-- <a href="http://www.github.com/Toey-Dev"><img src="https://github-readme-stats.vercel.app/api?username=Toey-Dev&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="Toey-Dev's GitHub stats" /></a> <a href="https://github.com/Toey-Dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toey-Dev&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
+<p align="left">
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Toey-Dev&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Toey-Dev&theme=radical)](https://github.com/Toey-Dev/github-readme-stats-fast)
+</p>
