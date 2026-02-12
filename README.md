@@ -68,9 +68,15 @@ Badges
   />
 </p>
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Toey-Dev)](https://github.com/Toey-Dev/github-readme-stats)
+<!-- <p align="left">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Toey-Dev&theme=radical"
+    width="500"
+  />
+</p> -->
 
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Toey-Dev&langs_count=8)
 
 
 
