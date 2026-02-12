@@ -5,7 +5,7 @@
 </div>
 <div id="header" align="start">
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Toey-Dev&style=flat-square&color=blue" alt=""/><br><br
+  <img src="https://komarev.com/ghpvc/?username=Toey-Dev&style=flat-square&color=blue" alt=""/><br><br>
 </div>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varat+Dube!;" 
      alt="Typing SVG" 
