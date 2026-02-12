@@ -60,8 +60,13 @@ Badges
     width="500"
   />
 </p>
+<p align="left">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Toey-Dev&theme=radical"
+    width="500"
+  />
+</p>
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Toey-Dev&theme=radical)](https://github.com/Toey-Dev/github-readme-stats-fast)
 
 
 
