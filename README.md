@@ -66,3 +66,4 @@ Badges
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Toey-Dev&show_icons=true" />
 </picture>
 
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Toey-Dev&theme=radical)](https://github.com/Toey-Dev/github-readme-stats-fast)
