@@ -58,5 +58,5 @@ Badges
 
 
 <p>
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toey-Dev)](https://github.com/Toey-Dev/github-readme-stats)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Toey-Dev"/>
 </p>
