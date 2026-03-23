@@ -11,7 +11,7 @@
      alt="Typing SVG" 
      style="display: block; margin-left: 0; margin-bottom: 0; margin-top: 0;" />
 <br>
-*  Full-Stack Developer with experience in UX/UI design and web application
+* 🌍  Full-Stack Developer with experience in UX/UI design and web application
 development, specializing in gathering and analyzing user requirements to deliver
 user-centered solutions.<br><br>
 *  Skilled in responsive frontend development using modern technologies and
