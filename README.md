@@ -13,24 +13,24 @@
 <br>
 - Full-Stack Developer with experience in UX/UI design and web application
 development, specializing in gathering and analyzing user requirements to deliver
-user-centered solutions.
+user-centered solutions.<br>
 - Skilled in responsive frontend development using modern technologies and
-implementing asynchronous API calls with robust error handling.
+implementing asynchronous API calls with robust error handling. <br>
 - Hands-on experience in designing and developing RESTful APIs with Node.js and
 Express, including endpoint routing, controller structure, request validation, and CRUD
-operations with database integration.
+operations with database integration. <br>
 - Familiar with MySQL and PostgreSQL for backend data management and building
-scalable application features.
+scalable application features. <br>
 - Conducted software testing, including test case creation and API testing, incorporating
-user feedback to improve application quality.
+user feedback to improve application quality. <br>
 - Worked as a Junior Pentester in the Royal Thai Army, performing web application
-penetration testing based on security best practices.
+penetration testing based on security best practices. <br>
 - Developed and enhanced a website for the Samaedam Metropolitan Police Bureau,
-aligning functionality with user and organizational requirements.
+aligning functionality with user and organizational requirements. <br>
 - Experienced in designing mobile application UX/UI, including the Cast Tracking module
 for an Excise Department application, from wireframing to mockups and usability
-improvements.
-- Strong interest in secure web application developm
+improvements. <br>
+- Strong interest in secure web application developm <br>
   
 Web Developers
 --------------
