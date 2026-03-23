@@ -11,26 +11,26 @@
      alt="Typing SVG" 
      style="display: block; margin-left: 0; margin-bottom: 0; margin-top: 0;" />
 <br>
-- Full-Stack Developer with experience in UX/UI design and web application
+*  Full-Stack Developer with experience in UX/UI design and web application
 development, specializing in gathering and analyzing user requirements to deliver
 user-centered solutions.<br><br>
-- Skilled in responsive frontend development using modern technologies and
+*  Skilled in responsive frontend development using modern technologies and
 implementing asynchronous API calls with robust error handling. <br><br>
-- Hands-on experience in designing and developing RESTful APIs with Node.js and
+*  Hands-on experience in designing and developing RESTful APIs with Node.js and
 Express, including endpoint routing, controller structure, request validation, and CRUD
 operations with database integration. <br><br>
-- Familiar with MySQL and PostgreSQL for backend data management and building
+*  Familiar with MySQL and PostgreSQL for backend data management and building
 scalable application features. <br><br>
-- Conducted software testing, including test case creation and API testing, incorporating
+*  Conducted software testing, including test case creation and API testing, incorporating
 user feedback to improve application quality. <br><br>
-- Worked as a Junior Pentester in the Royal Thai Army, performing web application
+*  Worked as a Junior Pentester in the Royal Thai Army, performing web application
 penetration testing based on security best practices. <br><br>
-- Developed and enhanced a website for the Samaedam Metropolitan Police Bureau,
+*  Developed and enhanced a website for the Samaedam Metropolitan Police Bureau,
 aligning functionality with user and organizational requirements. <br><br>
-- Experienced in designing mobile application UX/UI, including the Cast Tracking module
+*  Experienced in designing mobile application UX/UI, including the Cast Tracking module
 for an Excise Department application, from wireframing to mockups and usability
 improvements. <br><br>
-- Strong interest in secure web application developm <br><br>
+* Strong interest in secure web application developm <br><br>
   
 Web Developers
 --------------
