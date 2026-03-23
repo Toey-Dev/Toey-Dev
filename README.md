@@ -44,8 +44,15 @@ Web Developers
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Port](http://github.com/Toey-Dev)
 * ✉️  You can contact me at [weeraphat02ge@hotmail.com](mailto:weeraphat02ge@hotmail.com)
-* 🧠  I'm currently learning a new framework and enhancing my programming skills.
-* 👥  I'm looking to collaborate on Web Application Projects and Mobile Application Projects.
+* 🧠  Conducted user research and analyzed user requirements.
+* 🧠  UX/UI wireframing and mockup design.
+* 🧠  Responsive frontend development.
+* 🧠  Implemented asynchronous API calls using async/await with robust error handling.
+* 🧠  Designed and implemented RESTful APIs.
+* 🧠  Structured endpoint routing and controller architecture.
+* 🧠  Developed CRUD operations with database integration.
+* 🧠  Implemented request validation and centralized error handling.
+* 🧠  Software testing. (Test cases, API testing)
 
 
 Skills
