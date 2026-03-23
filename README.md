@@ -36,7 +36,7 @@ for an Excise Department application, from wireframing to mockups and usability
 improvements. <br>
 * Strong interest in secure web application developm <br>
   
-Web Developers
+COMPUTER SKILLS
 --------------
 
 
