@@ -78,7 +78,9 @@ Skills
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" title="Android Studio" width="36" height="36" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" width="36" height="36" /></a>
+
+  
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="./assets/canva.svg" alt="Canva" title="Canva" width="36" height="36" /></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" alt="Postman" title="Postman" width="36" height="36" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
