@@ -82,6 +82,16 @@ Skills
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" title="Swagger" width="36" height="36" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" title="Android Studio" width="36" height="36" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva" width="36" height="36" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" alt="Postman" title="Postman" width="36" height="36" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" title="Swagger" width="36" height="36" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" title="Android Studio" width="36" height="36" /></a>
 </p>
 
 Socials
